@@ -1,0 +1,10 @@
+My project is Hospital Management system with real-time patient monitoring. It contains Home page with about us, contact us, doctor login and pharmacist login. Doctor can login to his/her website. Doctor can able to view his/her patient details and today's appointment with date and time. Also able to view all patient history, appointment history and medicine list. Pharmacist can login to their respective web pages and they can able to register patient, assign patient to doctors, make appointments, add medicine, and update or delete medicines.
+
+
+
+
+
+
+
+
+
